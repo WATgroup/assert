@@ -1,3 +1,8 @@
+// SPDX-FileCopyrightText: © 2025 W-A-T EU Operations Oü
+// SPDX-License-Identifier: EUPL-1.2 OR Proprietary
+// SPDX-FileContributor: Created by Jose Luis Tallon <jltallon@w-a-t.group>
+
+// Package assert provides various simple assertion primitives, for use with "go test"
 package assert
 
 import (
